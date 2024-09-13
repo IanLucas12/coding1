@@ -8,8 +8,8 @@
   
 - Logo Após a explicaçâo sobre o site nós tivemos que criar nossas contas, e também criamos o nosso repositorio onde podiamos escolher o nome para o repositorio no qual foi dado o nome "README.MD",se ele será privado ou público, e adicionar o "README.file".
 
-  - E aprendemos a personalizar o nosso perfil do github , ao mesmo tempo que aprendemos sobre o markdown que é uma linguagem de marcação simples que é usada geralmente para formatar os arquivos README.
+- E aprendemos a personalizar o nosso perfil do github , ao mesmo tempo que aprendemos sobre o markdown que é uma linguagem de marcação simples que é usada geralmente para formatar os arquivos README.
  
-  - Nós pegamos um design de perfil como referência de um usuário chamado Dudux, onde cada um de nós adaptou do seu proprio jeito o seu perfil, e assim deixando a introduçâo do nosso perfil com uma breve apresentaçâo do nosso perfil.
+- Nós pegamos um design de perfil como referência de um usuário chamado Dudux, onde cada um de nós adaptou do seu proprio jeito o seu perfil, e assim deixando a introduçâo do nosso perfil com uma breve apresentaçâo do nosso perfil.
 
 
