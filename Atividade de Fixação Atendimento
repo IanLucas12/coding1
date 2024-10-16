@@ -1,0 +1,28 @@
+let pesquisa = prompt("Qual atendimento você quer?")
+
+if (pesquisa.toLowerCase() === 'odontologia'){
+  console.log("A consulta com o Odontologista custa R$170,00")
+}
+else if (pesquisa.toLowerCase() === 'cardiologia'){
+  console.log("A consulta com o Cardiologista custa R$160,00")
+}
+else if (pesquisa.toLowerCase() === 'pediatria'){
+  console.log("A consulta com o Pediatra custa R$220,00")
+}
+else if (pesquisa.toLowerCase() === 'dermatologia'){
+  console.log("A consulta com o Dermatologista custa R$140,00")
+}
+else if (pesquisa.toLowerCase() === 'neurologia'){
+  console.log("A consulta com o Neurologista custa R$160,00")
+}
+else if (pesquisa.toLowerCase() === 'urologia'){
+  console.log("A consulta com o Urologista custa R$180,00")
+}
+else if (pesquisa.toLowerCase() === 'ortopedia'){
+  console.log("A consulta com o otorpedista custa R$200,00")
+}
+else if (pesquisa.toLowerCase() === 'nutricionismo'){
+  console.log("A consulta com o Nutricionista custa R$600,00")
+}
+else
+  console.log("isso não existe")
